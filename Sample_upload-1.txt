@@ -1,3 +1,0 @@
-hi,
-welcome to sample upload file...
-adding some extra lines to this file
